@@ -1,2 +1,2 @@
-# Case-Study-2
+# CaseStudy2DDS
 Doing Data project
